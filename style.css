@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.icon-color{
+    background-color: white;
+}
+
+.navBg{
+    background-color: #1A187A;
+    color: white;
+}
+.sale-img{
+    height: 300px;
+    width: 100%;
+    background-image: url('./resources/img-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+.category-logo{
+    font-size: x-large;
+    margin-bottom:10px;
+}
+
+.category-card {
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
+}
+
+.caro-div{
+    width: 500px;
+    height: 500px;
+}
+.caro-img{
+    width: 100%;
+    height: 100vh;
+}
